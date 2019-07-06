@@ -1,0 +1,105 @@
+body { 
+    background: url(../img/background.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+.navbar {
+    background: #33D658;
+}
+
+.fa {
+    color: #fff;
+}
+
+#jumbotron {
+    color: #fff;
+}
+
+hr {
+    background: #33D658;
+}
+
+.btn {
+    background: #33D658;
+    color: #fff;
+}
+
+
+.btn:hover {
+    color: #33D658;
+    background: #fff;
+}
+
+.sidebar {
+    z-index: 100000;
+    color: white;
+    border: #fff solid 3px;
+    background: rgba(255,255,255, 0.2);
+    width: 200px;
+    height: 450px;
+}
+
+.hr {
+    width: 50%;
+}
+
+.hr-line {
+    width: 100%;
+    border: #33D658 dotted 3px;
+    position: relative;
+    top: 15px;
+}
+
+.bloglist {
+    word-wrap: break-word;
+}
+
+.sidebar1 li a:hover, .sidebar1 li:hover {
+    color: #33D658;
+    text-decoration: none;
+    transform: scale(1.1);
+    transition-duration: 0.8s;
+}
+
+li a {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: rgb(24, 23, 23);
+}
+
+#slider3 {
+    width: 700px;
+
+}
+
+.card-columns img {
+    width: 100%;
+    height: 150px;
+    padding-top: 4px;
+}
+
+
+.text-muted {
+    position: absolute;
+    bottom: 5px;
+}
+
+
+.modal {
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
